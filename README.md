@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @9vicToR4T
-- 👀 I’m interested in Java Script
-- 🌱 I’m currently learning React
+- 👀 Java Script, TypeScript, React
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me ...
 
 <!---
